@@ -14,6 +14,10 @@ const connect = function () {
     conn.write('Name: SNK');
   });
 
+  //conn.on("connect", () => {
+    //conn.write("Move: up");
+  //});
+
   conn.on("data", (data) => {
     console.log(data);
   });
