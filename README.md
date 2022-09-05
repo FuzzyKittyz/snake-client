@@ -8,7 +8,7 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-!["screenshot description"](https://drive.google.com/file/d/1s5S2p0sxVV6QIFY_vz_W1f0H-ww9wFl8/view?usp=sharing)
+!["Screenshot 1"](https://drive.google.com/file/d/1s5S2p0sxVV6QIFY_vz_W1f0H-ww9wFl8/view?usp=sharing)
 !["screenshot description"](#)
 
 
