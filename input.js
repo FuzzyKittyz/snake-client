@@ -25,6 +25,12 @@ const setupInput = function (conn) {
   if (key === 'd') {
     connection.write("Move: right")
   }
+  if (key === '1') {
+    connection.write('Say: hello') // added messages to apear above the snake
+  }
+  if (key === '2') {
+    connection.write('Say: why so bad?')
+  }
 };
 
 stdin.on("data", handleUserInput);
